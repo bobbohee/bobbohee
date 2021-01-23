@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my Github!
 
-<!-- img -->
+![Work](https://user-images.githubusercontent.com/41457508/105579675-2d9de980-5dcb-11eb-9fd7-d3562e5803ea.GIF)
 
 <div align="center">
 Check out my repos 👇
